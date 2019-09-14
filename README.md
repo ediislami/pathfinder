@@ -1,6 +1,8 @@
 # Pathfinder
 
-This is a pathfinder application which uses DFS, BFS, Dijkstra SP, BellmanFord SP to determine the shortest path between two points.
+You can choose between DFS, BFS, Dijkstra SP and BellmanFord SP algorithms to determine the shortest path between two points
+
+*This application was written in 2015 as a side project.*
 
 ## Installation
 
